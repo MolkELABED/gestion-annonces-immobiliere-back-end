@@ -1,4 +1,4 @@
-package com.project.annoncesimmobiliaires.annoncesimmobiliaires.Controller;
+package com.project.annoncesimmobilières.annoncesimmobilières.Controller;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -20,9 +20,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import com.project.annoncesimmobiliaires.annoncesimmobiliaires.Exception.ResourceNotFoundException;
-import com.project.annoncesimmobiliaires.annoncesimmobiliaires.Model.Annonce;
-import com.project.annoncesimmobiliaires.annoncesimmobiliaires.Repository.AnnonceRepository;
+import com.project.annoncesimmobilières.annoncesimmobilières.Exception.ResourceNotFoundException;
+import com.project.annoncesimmobilières.annoncesimmobilières.Model.Annonce;
+import com.project.annoncesimmobilières.annoncesimmobilières.Repository.AnnonceRepository;
 
 @CrossOrigin(origins = "http://localhost:4200")
 @RestController

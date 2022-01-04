@@ -1,8 +1,9 @@
-package com.project.annoncesimmobiliaires.annoncesimmobiliaires.Repository;
+package com.project.annoncesimmobilières.annoncesimmobilières.Repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import com.project.annoncesimmobiliaires.annoncesimmobiliaires.Model.Annonce;
+
+import com.project.annoncesimmobilières.annoncesimmobilières.Model.Annonce;
 
 @Repository
 public interface AnnonceRepository extends JpaRepository<Annonce, Long>{

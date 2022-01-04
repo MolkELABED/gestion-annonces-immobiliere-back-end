@@ -1,13 +1,13 @@
-package com.project.annoncesimmobiliaires.annoncesimmobiliaires;
+package com.project.annoncesimmobilières.annoncesimmobilières;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AnnoncesImmobiliairesApplication {
+public class AnnoncesImmobilièresApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AnnoncesImmobiliairesApplication.class, args);
+		SpringApplication.run(AnnoncesImmobilièresApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.project.annoncesimmobiliaires.annoncesimmobiliaires;
+package com.project.annoncesimmobilières.annoncesimmobilières;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AnnoncesImmobiliairesApplicationTests {
+class AnnoncesImmobilièresApplicationTests {
 
 	@Test
 	void contextLoads() {

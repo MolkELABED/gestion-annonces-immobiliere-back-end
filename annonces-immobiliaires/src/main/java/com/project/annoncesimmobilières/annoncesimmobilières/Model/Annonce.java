@@ -1,4 +1,4 @@
-package com.project.annoncesimmobiliaires.annoncesimmobiliaires.Model;
+package com.project.annoncesimmobilières.annoncesimmobilières.Model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
